@@ -3,9 +3,13 @@
   <url>
     <loc>https://teachers.sk/</loc>
     <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://teachers.sk/prvy-rocnik.html</loc>
+    <loc>https://teachers.sk/prvy-rocnik/</loc>
     <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
