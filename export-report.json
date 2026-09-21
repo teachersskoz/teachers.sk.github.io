@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:11:27.133Z",
+  "generatedAt": "2026-09-21T11:46:10.344Z",
   "sourceUrl": "https://teachers-codex.framer.website/",
   "siteUrl": "https://teachers.sk/",
   "pages": [
@@ -9,6 +9,7 @@
   "localizedAssets": 0,
   "hideFramerBadgeCss": true,
   "keepFramerRuntime": true,
+  "cname": "teachers.sk",
   "notes": [
     "Export zachováva Framer runtime pre tlačidlá, menu, hover efekty a animácie.",
     "Pri zmene obsahu spustite export znovu.",
