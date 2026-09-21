@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-09-21T11:11:27.133Z",
+  "sourceUrl": "https://teachers-codex.framer.website/",
+  "siteUrl": "https://teachers.sk/",
+  "pages": [
+    "https://teachers.sk/",
+    "https://teachers.sk/prvy-rocnik.html"
+  ],
+  "localizedAssets": 0,
+  "hideFramerBadgeCss": true,
+  "keepFramerRuntime": true,
+  "notes": [
+    "Export zachováva Framer runtime pre tlačidlá, menu, hover efekty a animácie.",
+    "Pri zmene obsahu spustite export znovu.",
+    "Overte formuláre a externé integrácie po nasadení."
+  ]
+}
